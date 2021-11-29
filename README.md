@@ -1,4 +1,4 @@
-# Text-MIning
+# Text-Mining
 For Text Mining assignment
  
  ONE:
